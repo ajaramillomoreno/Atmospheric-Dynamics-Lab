@@ -1,6 +1,10 @@
 # Atmospheric Dynamics Lab
 
-![Atmospheric Dynamics Lab Logo](assets/atmospheric_dynamics_lab_logo.png)
+<p align="center">
+  <img src="assets/atmospheric_dynamics_lab_logo.png"
+       alt="Atmospheric Dynamics Lab Logo"
+       width="200">
+</p>
 
 **Interactive Simulations for Teaching and Exploring Atmospheric Dynamics**
 
