@@ -1,4 +1,4 @@
-# Atmospheric Dynamics Lab
+<h1 align="center">Atmospheric Dynamics Lab</h1>
 
 <p align="center">
   <img src="assets/atmospheric_dynamics_lab_logo.png"
@@ -6,7 +6,9 @@
        width="200">
 </p>
 
-**Interactive Simulations for Teaching and Exploring Atmospheric Dynamics**
+<p align="center">
+  <strong>Interactive Simulations for Teaching and Exploring Atmospheric Dynamics</strong>
+</p>
 
 Atmospheric Dynamics Lab is an educational initiative dedicated to developing interactive, browser-based simulations that illustrate fundamental concepts and physical processes in atmospheric dynamics.
 
